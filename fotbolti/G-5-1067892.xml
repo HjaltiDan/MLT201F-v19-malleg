@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title type="main">Dreymir að Messi muni einn daginn spila með Inter</title>
+        </title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p xml:lang="is">Íslensk risamálheild</p>
+        <p xml:lang="en">Tagged Icelandic Gigaword Corpus</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</distributor>
+        <distributor xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</distributor>
+        <address>
+          <addrLine xml:lang="is">Árnagarður við Suðurgötu, 107 Reykjavík, Íslandi</addrLine>
+          <addrLine xml:lang="en">Árnagarður Suðurgata, 107 Reykjavik, Iceland</addrLine>
+          <addrLine>
+            <email>arnastofnun@arnastofnun.is</email>
+          </addrLine>
+        </address>
+        <idno type="risam">G-5-1067892</idno>
+        <availability>
+          <p xml:lang="is">Þessi texti er til notkunar í málrannsóknum og máltækniverkefnum um allan heim með sérstöku leyfi, sjá rmh1Hdr.xml</p>
+          <p xml:lang="en">This text is available for use in language research and language technology projects world wide with a special license, see rmh1Hdr.xml</p>
+        </availability>
+        <date>2018-03-10</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title>
+              <title type="main">Dreymir að Messi muni einn daginn spila með Inter</title>
+            </title>
+            <date>2016-11-30</date>
+          </analytic>
+          <monogr>
+            <title>fotbolti.net</title>
+            <imprint>
+              <publisher>Fótbolti ehf.</publisher>
+              <pubPlace>Reykjavík</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Sjá lýsingu á verkefninu í rmh1Hdr.xml.</p>
+        <p>See description of project in rmh1Hdr.xml.</p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="2"/>
+          <tagUsage gi="s" occurs="5"/>
+          <tagUsage gi="w" occurs="122"/>
+          <tagUsage gi="c" occurs="21"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+        <p n="1">
+          <s n="1">
+            <w lemma="maður" type="nkeng">Maðurinn</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="ráða" type="sfg3en">ræður</w>
+            <w lemma="ríki" type="nhfþ">ríkjum</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="aðalstyrktaraðili" type="nkeþ">aðalstyrktaraðila</w>
+            <w lemma="Inter" type="e">Inter</w>
+            <w lemma="á" type="aþ">á</w>
+            <w lemma="Ítalía" type="nveþ-s">Ítalíu</w>
+            <w lemma="segja" type="sfg3en">segir</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="draumur" type="nkeng">draumurinn</w>
+            <w lemma="vera" type="svg3en">sé</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="Lionel" type="e">Lionel</w>
+            <w lemma="Messi" type="e">Messi</w>
+            <c type="punctuation">,</c>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="nú" type="aa">nú</w>
+            <w lemma="leika" type="sfg3en">leikur</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="Barcelona" type="e">Barcelona</w>
+            <c type="punctuation">,</c>
+            <w lemma="munu" type="svg3en">muni</w>
+            <w lemma="einn" type="fokeo">einn</w>
+            <w lemma="dagur" type="nkeog">daginn</w>
+            <w lemma="spila" type="sng">spila</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="treyja" type="nveþ">treyju</w>
+            <w lemma="Inter" type="e">Inter</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <w lemma="samningur" type="nken">Samningur</w>
+            <w lemma="Messi" type="e">Messi</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="Barcelona" type="e">Barcelona</w>
+            <w lemma="renna" type="sfg3en">rennur</w>
+            <w lemma="út" type="aa">út</w>
+            <w lemma="eftir" type="ao">eftir</w>
+            <w lemma="næstur" type="lheove">næsta</w>
+            <w lemma="tímabil" type="nheo">tímabil</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="það" type="fphen">það</w>
+            <w lemma="vera" type="sfg3fn">eru</w>
+            <w lemma="ýmis" type="fovfn">ýmsar</w>
+            <w lemma="sögusögn" type="nvfn">sögusagnir</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="framtíð" type="nveo">framtíð</w>
+            <w lemma="hann" type="fpkee">hans</w>
+            <w lemma="fara" type="sþgvfn">farnar</w>
+            <w lemma="í" type="ao">í</w>
+            <w lemma="gangur" type="nkeo">gang</w>
+            <c type="punctuation">.</c>
+          </s>
+        </p>
+        <p n="2">
+          <s n="1">
+            <w lemma="messi" type="nken">Messi</w>
+            <w lemma="hafa" type="sfg3en">hefur</w>
+            <w lemma="alltaf" type="aa">alltaf</w>
+            <w lemma="tala" type="ssg">talað</w>
+            <w lemma="um" type="ao">um</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="hann" type="fpken">hann</w>
+            <w lemma="vilja" type="svg3en">vilji</w>
+            <w lemma="enda" type="sng">enda</w>
+            <w lemma="ferill" type="nkeog">ferilinn</w>
+            <w lemma="í" type="aþ">í</w>
+            <w lemma="heimaland" type="nheþg">heimalandinu</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="Newell" type="nkeþ-s">Newell</w>
+            <c type="punctuation">'</c>
+            <w lemma="s" type="e">s</w>
+            <w lemma="Old" type="e">Old</w>
+            <w lemma="Boys" type="e">Boys</w>
+            <c type="punctuation">,</c>
+            <w lemma="en" type="c">en</w>
+            <w lemma="Marco" type="e">Marco</w>
+            <w lemma="Tronchöttur" type="nkeþ-s">Tronchetti</w>
+            <w lemma="Proveri" type="nkeþ-s">Provera</w>
+            <c type="punctuation">,</c>
+            <w lemma="framkvæmdastjóri" type="nken">framkvæmdastjóri</w>
+            <w lemma="hjá" type="aþ">hjá</w>
+            <w lemma="Pirelli" type="e">Pirelli</w>
+            <c type="punctuation">,</c>
+            <w lemma="aðalstyrktaraðili" type="nkeþ">aðalstyrktaraðila</w>
+            <w lemma="Inter" type="e">Inter</w>
+            <c type="punctuation">,</c>
+            <w lemma="vona" type="sfm3en">vonast</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="það" type="fphee">þess</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="Messi" type="e">Messi</w>
+            <w lemma="koma" type="svg3en">komi</w>
+            <w lemma="til" type="ae">til</w>
+            <w lemma="Ítalía" type="nvee-s">Ítalíu</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="spila" type="svg3fn">spili</w>
+            <w lemma="með" type="aþ">með</w>
+            <w lemma="sinn" type="feheþ">sínu</w>
+            <w lemma="félag" type="nheþ">félagi</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="2">
+            <c type="punctuation">„</c>
+            <w lemma="það" type="fphen">Það</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="einn" type="foken">einn</w>
+            <w lemma="draumur" type="nken">draumur</w>
+            <w lemma="sem" type="ct">sem</w>
+            <w lemma="vera" type="sfg3en">er</w>
+            <w lemma="alltaf" type="aa">alltaf</w>
+            <w lemma="sá" type="faken">sá</w>
+            <w lemma="sami" type="fbken">sami</w>
+            <c type="punctuation">:</c>
+            <w lemma="Messi" type="e">Messi</w>
+            <c type="punctuation">,</c>
+            <c type="punctuation">'</c>
+            <w lemma="segja" type="sfg3eþ">sagði</w>
+            <w lemma="hann" type="fpken">hann</w>
+            <w lemma="við" type="ao">við</w>
+            <w lemma="Corriere" type="nkeo-s">Corriere</w>
+            <w lemma="dello" type="e">dello</w>
+            <w lemma="Sport" type="e">Sport</w>
+            <c type="punctuation">.</c>
+          </s>
+          <s n="3">
+            <c type="punctuation">„</c>
+            <w lemma="þessi" type="faken">Þessi</w>
+            <w lemma="draumur" type="nken">draumur</w>
+            <w lemma="hafa" type="sfg3en">hefur</w>
+            <w lemma="alltaf" type="aa">alltaf</w>
+            <w lemma="vera" type="ssg">verið</w>
+            <w lemma="sá" type="faken">sá</w>
+            <w lemma="sami" type="fbken">sami</w>
+            <c type="punctuation">.</c>
+            <c type="punctuation">'</c>
+            <c type="punctuation">„</c>
+            <w lemma="ég" type="fp1en">Ég</w>
+            <w lemma="vera" type="sfg1en">er</w>
+            <w lemma="alltaf" type="aa">alltaf</w>
+            <w lemma="bjartsýnn" type="lkensf">bjartsýnn</w>
+            <w lemma="og" type="c">og</w>
+            <w lemma="ég" type="fp1en">ég</w>
+            <w lemma="vita" type="sfg1en">veit</w>
+            <w lemma="að" type="c">að</w>
+            <w lemma="stundum" type="aa">stundum</w>
+            <w lemma="geta" type="sfg3fn">geta</w>
+            <w lemma="draumur" type="nkfn">draumar</w>
+            <w lemma="ræsa" type="ssg">ræst</w>
+            <c type="punctuation">.</c>
+            <c type="punctuation">'</c>
+          </s>
+        </p>
+      </div1>
+    </body>
+  </text>
+</TEI>
