@@ -1,0 +1,17 @@
+#Næst:
+
+#Leysa mögulegar villur í clean_dict() - ég virðist ekki fá fullkomlega rétta hreinsun
+
+#Búa svo til dict. key er lemma. val verður að innihalda type, EN með smá flókinni kóðun
+# getum við látið val vera list (ekki tuple, það er ekki breytanlegt) þar sem fyrra
+# gildið er mörkunin og seinna gildið er heiltala, 1 eða hærri, sem telur hversu oft
+# orðið hefur komið fyrir.
+
+#Keyra þetta á stærra skráar mengi. Best væri ef þetta gæti keyrt þægilega á endurkvæman hátt
+# yfir runur af möppum - sem það er í raun farið að gera upp að vissu marki - en það er ekki 
+# 100% nauðsynleg virkni
+
+# Taka stikkprufur, t.d. hvort íðorð sem ég veit að fyrirfinnist í fótboltanum ("deildarsigur")
+# finnist ekki ábyggilega eftir allar keyrslur. Skoða svo nánar hvaða orð komast í gegn og athuga
+# hvort þau fara að hverfa þegar ég nota fleiri og fleiri skrár (og stækka þá gagnamengið)
+
